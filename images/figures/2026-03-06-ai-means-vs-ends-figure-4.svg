@@ -1,0 +1,49 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg4" x1="114" y1="80" x2="1480" y2="834" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827" />
+      <stop offset="1" stop-color="#3F1D12" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" rx="42" fill="url(#bg4)" />
+  <rect x="72" y="66" width="1456" height="768" rx="34" fill="#020617" fill-opacity="0.18" stroke="#E2E8F0" stroke-opacity="0.12" />
+
+  <text x="120" y="154" fill="#F8FAFC" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="56" font-weight="700">그림 4. 실패를 측정하지 않을 때 벌어지는 일</text>
+  <text x="120" y="210" fill="#CBD5E1" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="26">오류가 시스템에서 발생해도 개인 노하우로만 봉합되면 같은 실패가 반복된다</text>
+
+  <circle cx="800" cy="484" r="236" fill="#431407" fill-opacity="0.35" stroke="#FDBA74" stroke-opacity="0.28" />
+  <g transform="translate(800 232)">
+    <rect x="-132" y="-52" width="264" height="104" rx="26" fill="#7F1D1D" stroke="#FCA5A5" stroke-opacity="0.44" />
+    <text x="-72" y="4" fill="#FEE2E2" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="28" font-weight="700">오류 발생</text>
+  </g>
+  <g transform="translate(1114 356)">
+    <rect x="-132" y="-52" width="264" height="104" rx="26" fill="#9A3412" stroke="#FDBA74" stroke-opacity="0.44" />
+    <text x="-80" y="4" fill="#FFEDD5" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="28" font-weight="700">임시 수습</text>
+  </g>
+  <g transform="translate(1114 612)">
+    <rect x="-156" y="-52" width="312" height="104" rx="26" fill="#78350F" stroke="#FCD34D" stroke-opacity="0.44" />
+    <text x="-118" y="4" fill="#FEF3C7" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="28" font-weight="700">개인 노하우 축적</text>
+  </g>
+  <g transform="translate(800 736)">
+    <rect x="-152" y="-52" width="304" height="104" rx="26" fill="#4B5563" stroke="#CBD5E1" stroke-opacity="0.4" />
+    <text x="-112" y="4" fill="#F8FAFC" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="28" font-weight="700">문서 미반영</text>
+  </g>
+  <g transform="translate(486 612)">
+    <rect x="-164" y="-52" width="328" height="104" rx="26" fill="#7C2D12" stroke="#FB923C" stroke-opacity="0.44" />
+    <text x="-128" y="4" fill="#FFEDD5" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="28" font-weight="700">동일 오류 재발</text>
+  </g>
+  <g transform="translate(486 356)">
+    <rect x="-164" y="-52" width="328" height="104" rx="26" fill="#991B1B" stroke="#FCA5A5" stroke-opacity="0.44" />
+    <text x="-126" y="4" fill="#FECACA" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="28" font-weight="700">신뢰 하락 가속</text>
+  </g>
+
+  <path d="M930 260C1014 272 1086 302 1142 340" stroke="#FCA5A5" stroke-width="12" stroke-linecap="round" />
+  <path d="M1236 408C1266 486 1262 554 1230 626" stroke="#FDBA74" stroke-width="12" stroke-linecap="round" />
+  <path d="M1050 734C964 764 884 776 804 774" stroke="#FCD34D" stroke-width="12" stroke-linecap="round" />
+  <path d="M640 748C560 734 500 706 452 652" stroke="#CBD5E1" stroke-width="12" stroke-linecap="round" />
+  <path d="M340 558C324 484 336 414 366 360" stroke="#FB923C" stroke-width="12" stroke-linecap="round" />
+  <path d="M530 270C618 242 706 232 796 232" stroke="#FCA5A5" stroke-width="12" stroke-linecap="round" />
+
+  <text x="592" y="486" fill="#FED7AA" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="28" font-weight="700">실패를 측정하지 않으면</text>
+  <text x="550" y="526" fill="#FECACA" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="24">시스템 오류가 개인의 피로와 이탈로 전가된다</text>
+</svg>
