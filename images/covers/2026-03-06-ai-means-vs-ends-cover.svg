@@ -1,0 +1,90 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="80" x2="1480" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A" />
+      <stop offset="1" stop-color="#1D4ED8" />
+    </linearGradient>
+    <linearGradient id="leftPath" x1="500" y1="430" x2="1290" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F59E0B" />
+      <stop offset="1" stop-color="#F97316" />
+    </linearGradient>
+    <linearGradient id="rightPath" x1="500" y1="470" x2="1290" y2="650" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E" />
+      <stop offset="1" stop-color="#06B6D4" />
+    </linearGradient>
+    <filter id="shadow" x="-80" y="-80" width="1760" height="1060" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="24" stdDeviation="36" flood-color="#020617" flood-opacity="0.38" />
+    </filter>
+  </defs>
+
+  <rect width="1600" height="900" rx="44" fill="url(#bg)" />
+  <circle cx="1350" cy="140" r="160" fill="#60A5FA" fill-opacity="0.12" />
+  <circle cx="132" cy="758" r="240" fill="#F8FAFC" fill-opacity="0.05" />
+  <circle cx="1208" cy="768" r="230" fill="#22C55E" fill-opacity="0.07" />
+
+  <g filter="url(#shadow)">
+    <rect x="80" y="70" width="1440" height="760" rx="36" fill="#0B1120" fill-opacity="0.44" stroke="#E2E8F0" stroke-opacity="0.12" />
+  </g>
+
+  <text x="120" y="170" fill="#F8FAFC" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="58" font-weight="700">
+    AI시대의 수단과 결과
+  </text>
+  <text x="120" y="226" fill="#CBD5E1" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="28" font-weight="500">
+    데모의 성공과 실제 변화는 어떻게 갈라지는가
+  </text>
+
+  <g transform="translate(120 310)">
+    <rect width="260" height="160" rx="28" fill="#0F172A" stroke="#93C5FD" stroke-opacity="0.35" />
+    <text x="40" y="64" fill="#F8FAFC" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="24" font-weight="700">
+      문제 인식
+    </text>
+    <text x="40" y="102" fill="#CBD5E1" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="20">
+      무엇이 실제 고통인가?
+    </text>
+    <circle cx="204" cy="58" r="26" fill="#1D4ED8" />
+    <path d="M192 58H216M204 46V70" stroke="#F8FAFC" stroke-width="4" stroke-linecap="round" />
+  </g>
+
+  <path d="M392 390C500 350 622 312 742 282C882 246 1022 240 1286 264" stroke="url(#leftPath)" stroke-width="26" stroke-linecap="round" />
+  <path d="M392 470C520 514 642 562 762 614C914 680 1062 694 1286 654" stroke="url(#rightPath)" stroke-width="26" stroke-linecap="round" />
+
+  <g transform="translate(980 170)">
+    <rect width="420" height="180" rx="28" fill="#431407" fill-opacity="0.78" stroke="#FDBA74" stroke-opacity="0.42" />
+    <text x="36" y="58" fill="#FED7AA" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="24" font-weight="700">
+      수단 중심 사고
+    </text>
+    <text x="36" y="102" fill="#FFEDD5" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="20">
+      도구 도입 → 데모 성공 → 홍보 확대
+    </text>
+    <text x="36" y="138" fill="#FDBA74" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="20">
+      현장 마찰 누적 → 신뢰 하락
+    </text>
+  </g>
+
+  <g transform="translate(980 560)">
+    <rect width="420" height="180" rx="28" fill="#052E2B" fill-opacity="0.78" stroke="#86EFAC" stroke-opacity="0.45" />
+    <text x="36" y="58" fill="#BBF7D0" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="24" font-weight="700">
+      결과 중심 사고
+    </text>
+    <text x="36" y="102" fill="#DCFCE7" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="20">
+      목표 정의 → 현장 재설계 → 품질 검증
+    </text>
+    <text x="36" y="138" fill="#86EFAC" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="20">
+      신뢰 축적 → 삶의 변화
+    </text>
+  </g>
+
+  <g transform="translate(720 228)">
+    <circle cx="0" cy="0" r="44" fill="#7C2D12" stroke="#FDBA74" stroke-opacity="0.5" />
+    <path d="M-16 0H16M0 -16V16" stroke="#FFEDD5" stroke-width="6" stroke-linecap="round" />
+  </g>
+
+  <g transform="translate(740 620)">
+    <circle cx="0" cy="0" r="44" fill="#14532D" stroke="#86EFAC" stroke-opacity="0.5" />
+    <path d="M-18 4L-4 18L22 -14" stroke="#DCFCE7" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+
+  <text x="118" y="792" fill="#E2E8F0" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="24">
+    “이 기능을 썼다”가 아니라 “이 문제를 줄였다”를 묻는 글
+  </text>
+</svg>
