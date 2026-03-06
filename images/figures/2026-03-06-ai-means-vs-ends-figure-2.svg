@@ -1,0 +1,43 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="120" y1="80" x2="1500" y2="860" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827" />
+      <stop offset="1" stop-color="#0F172A" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" rx="42" fill="url(#bg2)" />
+  <rect x="74" y="66" width="1452" height="768" rx="34" fill="#020617" fill-opacity="0.24" stroke="#E2E8F0" stroke-opacity="0.12" />
+
+  <text x="120" y="154" fill="#F8FAFC" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="56" font-weight="700">그림 2. 활동 지표와 결과 지표의 차이</text>
+  <text x="120" y="210" fill="#CBD5E1" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="26">활동은 쉽게 늘어난다. 결과는 실제 문제 감소로만 증명된다</text>
+
+  <g transform="translate(126 286)">
+    <rect width="620" height="470" rx="30" fill="#3F1D12" fill-opacity="0.82" stroke="#FDBA74" stroke-opacity="0.38" />
+    <text x="38" y="62" fill="#FED7AA" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="30" font-weight="700">활동 지표</text>
+    <text x="38" y="110" fill="#FFEDD5" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="22">프롬프트 수</text>
+    <text x="38" y="158" fill="#FFEDD5" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="22">자동화 개수</text>
+    <text x="38" y="206" fill="#FFEDD5" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="22">생성 문서량</text>
+    <text x="38" y="254" fill="#FFEDD5" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="22">모델 호출량</text>
+    <text x="38" y="326" fill="#FDBA74" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="20">보기에는 성장처럼 보이지만</text>
+    <text x="38" y="362" fill="#FCA5A5" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="20">고객의 고통이 그대로면 성공이 아니다</text>
+    <rect x="390" y="112" width="170" height="26" rx="13" fill="#FB923C" />
+    <rect x="332" y="160" width="228" height="26" rx="13" fill="#F59E0B" />
+    <rect x="274" y="208" width="286" height="26" rx="13" fill="#EA580C" />
+    <rect x="216" y="256" width="344" height="26" rx="13" fill="#DC2626" />
+  </g>
+
+  <g transform="translate(854 286)">
+    <rect width="620" height="470" rx="30" fill="#052E2B" fill-opacity="0.84" stroke="#86EFAC" stroke-opacity="0.38" />
+    <text x="38" y="62" fill="#BBF7D0" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="30" font-weight="700">결과 지표</text>
+    <text x="38" y="110" fill="#DCFCE7" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="22">문제 해결률</text>
+    <text x="38" y="158" fill="#DCFCE7" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="22">고객 재문의율</text>
+    <text x="38" y="206" fill="#DCFCE7" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="22">오류 감소율</text>
+    <text x="38" y="254" fill="#DCFCE7" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="22">재작업 시간 · 현장 만족도</text>
+    <text x="38" y="326" fill="#A7F3D0" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="20">숫자가 작아 보여도</text>
+    <text x="38" y="362" fill="#67E8F9" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="20">문제 감소를 설명하면 진짜 성과가 된다</text>
+    <rect x="316" y="112" width="244" height="26" rx="13" fill="#22C55E" />
+    <rect x="270" y="160" width="290" height="26" rx="13" fill="#10B981" />
+    <rect x="208" y="208" width="352" height="26" rx="13" fill="#14B8A6" />
+    <rect x="148" y="256" width="412" height="26" rx="13" fill="#06B6D4" />
+  </g>
+</svg>
