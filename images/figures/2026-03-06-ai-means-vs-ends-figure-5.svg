@@ -1,0 +1,43 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg5" x1="108" y1="82" x2="1492" y2="838" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A" />
+      <stop offset="1" stop-color="#164E63" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" rx="42" fill="url(#bg5)" />
+  <rect x="72" y="66" width="1456" height="768" rx="34" fill="#020617" fill-opacity="0.18" stroke="#E2E8F0" stroke-opacity="0.12" />
+
+  <text x="120" y="154" fill="#F8FAFC" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="56" font-weight="700">그림 5. 조직이 갖춰야 할 최소한의 AI 문해력 체계</text>
+  <text x="120" y="210" fill="#CBD5E1" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="26">기술 이해만으로는 부족하다. 위험, 운영, 윤리까지 함께 배워야 실제 품질이 오른다</text>
+
+  <circle cx="800" cy="500" r="112" fill="#0F172A" stroke="#93C5FD" stroke-opacity="0.35" />
+  <text x="708" y="486" fill="#F8FAFC" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="30" font-weight="700">AI 문해력</text>
+  <text x="676" y="526" fill="#CBD5E1" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="22">균형이 품질을 만든다</text>
+
+  <g transform="translate(800 320)">
+    <rect x="-190" y="-74" width="380" height="148" rx="32" fill="#1D4ED8" fill-opacity="0.86" stroke="#93C5FD" stroke-opacity="0.48" />
+    <text x="-84" y="-6" fill="#DBEAFE" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="30" font-weight="700">기술 이해</text>
+    <text x="-132" y="38" fill="#E0F2FE" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="20">무엇을 할 수 있고 어디서 강한가</text>
+  </g>
+  <g transform="translate(1080 500)">
+    <rect x="-190" y="-74" width="380" height="148" rx="32" fill="#DC2626" fill-opacity="0.84" stroke="#FCA5A5" stroke-opacity="0.48" />
+    <text x="-84" y="-6" fill="#FEE2E2" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="30" font-weight="700">위험 이해</text>
+    <text x="-136" y="38" fill="#FECACA" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="20">어떻게 실패하고 무엇이 취약한가</text>
+  </g>
+  <g transform="translate(800 680)">
+    <rect x="-190" y="-74" width="380" height="148" rx="32" fill="#0F766E" fill-opacity="0.86" stroke="#5EEAD4" stroke-opacity="0.48" />
+    <text x="-84" y="-6" fill="#CCFBF1" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="30" font-weight="700">운영 이해</text>
+    <text x="-138" y="38" fill="#A7F3D0" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="20">누가 판단하고 누가 책임지는가</text>
+  </g>
+  <g transform="translate(520 500)">
+    <rect x="-190" y="-74" width="380" height="148" rx="32" fill="#7C3AED" fill-opacity="0.84" stroke="#C4B5FD" stroke-opacity="0.48" />
+    <text x="-84" y="-6" fill="#EDE9FE" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="30" font-weight="700">윤리 이해</text>
+    <text x="-146" y="38" fill="#DDD6FE" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="20">누가 더 영향을 받고 보호받아야 하는가</text>
+  </g>
+
+  <path d="M800 402V382" stroke="#93C5FD" stroke-width="12" stroke-linecap="round" />
+  <path d="M912 500H936" stroke="#FCA5A5" stroke-width="12" stroke-linecap="round" />
+  <path d="M800 598V622" stroke="#5EEAD4" stroke-width="12" stroke-linecap="round" />
+  <path d="M688 500H664" stroke="#C4B5FD" stroke-width="12" stroke-linecap="round" />
+</svg>
