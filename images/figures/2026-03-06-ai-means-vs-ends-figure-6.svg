@@ -1,0 +1,43 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg6" x1="112" y1="80" x2="1480" y2="846" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827" />
+      <stop offset="1" stop-color="#0F172A" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" rx="42" fill="url(#bg6)" />
+  <rect x="72" y="66" width="1456" height="768" rx="34" fill="#020617" fill-opacity="0.18" stroke="#E2E8F0" stroke-opacity="0.12" />
+
+  <text x="120" y="154" fill="#F8FAFC" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="56" font-weight="700">그림 6. 과장 루프와 학습 루프</text>
+  <text x="120" y="210" fill="#CBD5E1" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="26">도입 발표만 반복하는 루프는 신뢰를 깎고, 실패를 기록하는 루프는 개선을 쌓는다</text>
+
+  <g transform="translate(130 286)">
+    <rect width="610" height="470" rx="30" fill="#431407" fill-opacity="0.82" stroke="#FDBA74" stroke-opacity="0.4" />
+    <text x="38" y="60" fill="#FED7AA" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="30" font-weight="700">과장 루프</text>
+    <circle cx="306" cy="246" r="128" fill="#7C2D12" fill-opacity="0.3" stroke="#FB923C" stroke-opacity="0.45" />
+    <text x="232" y="164" fill="#FFEDD5" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="22">도입 발표</text>
+    <text x="430" y="244" fill="#FFEDD5" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="22">기대 과열</text>
+    <text x="246" y="350" fill="#FFEDD5" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="22">예외 은폐</text>
+    <text x="72" y="244" fill="#FFEDD5" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="22">교체 반복</text>
+    <path d="M316 132C378 138 436 170 470 214" stroke="#FB923C" stroke-width="12" stroke-linecap="round" />
+    <path d="M474 278C456 328 420 368 372 394" stroke="#FB923C" stroke-width="12" stroke-linecap="round" />
+    <path d="M286 398C226 392 170 362 140 316" stroke="#FB923C" stroke-width="12" stroke-linecap="round" />
+    <path d="M138 230C160 182 200 146 250 132" stroke="#FB923C" stroke-width="12" stroke-linecap="round" />
+    <text x="38" y="422" fill="#FCA5A5" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="20">빠르게 보이지만 같은 실패를 숨긴 채 반복한다</text>
+  </g>
+
+  <g transform="translate(860 286)">
+    <rect width="610" height="470" rx="30" fill="#052E2B" fill-opacity="0.84" stroke="#86EFAC" stroke-opacity="0.4" />
+    <text x="38" y="60" fill="#BBF7D0" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="30" font-weight="700">학습 루프</text>
+    <circle cx="306" cy="246" r="128" fill="#064E3B" fill-opacity="0.3" stroke="#34D399" stroke-opacity="0.45" />
+    <text x="232" y="164" fill="#DCFCE7" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="22">작은 배포</text>
+    <text x="420" y="244" fill="#DCFCE7" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="22">실패 기록</text>
+    <text x="226" y="350" fill="#DCFCE7" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="22">수정 반영</text>
+    <text x="54" y="244" fill="#DCFCE7" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="22">재측정 · 점진 확장</text>
+    <path d="M316 132C380 140 434 170 468 214" stroke="#34D399" stroke-width="12" stroke-linecap="round" />
+    <path d="M472 278C452 328 418 366 370 394" stroke="#34D399" stroke-width="12" stroke-linecap="round" />
+    <path d="M284 398C224 392 170 362 140 316" stroke="#34D399" stroke-width="12" stroke-linecap="round" />
+    <path d="M140 230C160 184 198 148 248 132" stroke="#34D399" stroke-width="12" stroke-linecap="round" />
+    <text x="38" y="422" fill="#67E8F9" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="20">느려 보여도 개선이 누적되며 신뢰와 품질이 쌓인다</text>
+  </g>
+</svg>
