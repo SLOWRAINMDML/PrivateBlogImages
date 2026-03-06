@@ -1,0 +1,50 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="130" y1="86" x2="1460" y2="834" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A" />
+      <stop offset="1" stop-color="#083344" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" rx="42" fill="url(#bg3)" />
+  <rect x="72" y="66" width="1456" height="768" rx="34" fill="#020617" fill-opacity="0.22" stroke="#E2E8F0" stroke-opacity="0.12" />
+
+  <text x="120" y="154" fill="#F8FAFC" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="56" font-weight="700">그림 3. 결과 중심 팀의 실행 루프</text>
+  <text x="120" y="210" fill="#CBD5E1" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="26">작게 시작하되 측정은 크게. 기능보다 검증이 먼저 도는 실행 루프</text>
+
+  <circle cx="800" cy="480" r="228" fill="#082F49" stroke="#67E8F9" stroke-opacity="0.25" />
+  <circle cx="800" cy="480" r="134" fill="#0F172A" stroke="#93C5FD" stroke-opacity="0.28" />
+  <text x="736" y="470" fill="#F8FAFC" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="30" font-weight="700">측정</text>
+  <text x="682" y="512" fill="#CBD5E1" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="22">문제 감소를 계속 확인</text>
+
+  <g transform="translate(780 210)">
+    <rect x="-136" y="-56" width="272" height="112" rx="28" fill="#1E3A8A" stroke="#93C5FD" stroke-opacity="0.45" />
+    <text x="-74" y="2" fill="#DBEAFE" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="28" font-weight="700">문제 정의</text>
+  </g>
+  <g transform="translate(1110 352)">
+    <rect x="-150" y="-56" width="300" height="112" rx="28" fill="#0F766E" stroke="#5EEAD4" stroke-opacity="0.45" />
+    <text x="-112" y="2" fill="#CCFBF1" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="28" font-weight="700">사용자 지표 합의</text>
+  </g>
+  <g transform="translate(1110 610)">
+    <rect x="-136" y="-56" width="272" height="112" rx="28" fill="#14532D" stroke="#86EFAC" stroke-opacity="0.45" />
+    <text x="-80" y="2" fill="#DCFCE7" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="28" font-weight="700">작은 실험</text>
+  </g>
+  <g transform="translate(780 752)">
+    <rect x="-152" y="-56" width="304" height="112" rx="28" fill="#4D7C0F" stroke="#BEF264" stroke-opacity="0.45" />
+    <text x="-118" y="2" fill="#ECFCCB" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="28" font-weight="700">부작용 측정</text>
+  </g>
+  <g transform="translate(490 610)">
+    <rect x="-136" y="-56" width="272" height="112" rx="28" fill="#9A3412" stroke="#FDBA74" stroke-opacity="0.45" />
+    <text x="-90" y="2" fill="#FFEDD5" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="28" font-weight="700">운영 반영</text>
+  </g>
+  <g transform="translate(490 352)">
+    <rect x="-136" y="-56" width="272" height="112" rx="28" fill="#7C3AED" stroke="#C4B5FD" stroke-opacity="0.45" />
+    <text x="-88" y="2" fill="#EDE9FE" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="28" font-weight="700">재측정</text>
+  </g>
+
+  <path d="M922 236C1010 248 1074 286 1114 322" stroke="#93C5FD" stroke-width="12" stroke-linecap="round" />
+  <path d="M1208 406C1230 480 1228 548 1192 610" stroke="#5EEAD4" stroke-width="12" stroke-linecap="round" />
+  <path d="M1016 712C948 748 870 770 796 770" stroke="#86EFAC" stroke-width="12" stroke-linecap="round" />
+  <path d="M652 742C568 718 506 682 466 634" stroke="#BEF264" stroke-width="12" stroke-linecap="round" />
+  <path d="M394 550C372 478 380 412 412 356" stroke="#FDBA74" stroke-width="12" stroke-linecap="round" />
+  <path d="M574 264C634 236 704 220 780 224" stroke="#C4B5FD" stroke-width="12" stroke-linecap="round" />
+</svg>
